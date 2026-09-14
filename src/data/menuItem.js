@@ -9,8 +9,7 @@ const menuItem = {
     { id: 'addon-cheese', label: 'Extra Cheddar', price: 1.25 },
     { id: 'addon-avocado', label: 'Avocado', price: 2.00 },
     { id: 'addon-jalapeno', label: 'Jalapeños', price: 0.75 },
-
-    { id: 'addon-onion', label: 'Crispy Onions', price: 1.00 },
+    { id: 'addon-fries', label: 'Fries', price: 2.50 },
 
   ],
 };
